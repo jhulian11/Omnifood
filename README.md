@@ -15,7 +15,7 @@ This project is an opportunity to strengthen your HTML and CSS skills. Learn bes
 ## How to Use:
 
 1. Clone the Repository:
-git clone https://github.com/your-username/omnifood.git
+git clone https://github.com/jhulian11/omnifood.git
 
 2. Open index.html in Your Browser:
 Open the index.html file in your preferred web browser to explore Omnifood and see your HTML and CSS skills in action.
