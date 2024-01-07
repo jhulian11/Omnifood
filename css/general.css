@@ -7,6 +7,7 @@
     --dark-grey: #333;
     --light-grey: #ddd;
     --light-grey-2: #888;
+    --light-grey-3: #6f6f6f;
     --green: #51cf66;
     --green-2: #94d82d;
     --yellow: #ffd43b;
@@ -45,6 +46,10 @@ strong{
     display: grid;
     row-gap: 9.6rem;
     column-gap: 6.4rem;
+}
+
+.grid:not(:last-child){
+    margin-bottom: 9.6rem;
 }
 
 .grid-2-cols{
@@ -142,6 +147,28 @@ strong{
     color: var(--primary-dark);
     border-bottom: 1px solid transparent;
 }
+
+.list{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
+
+.list-item{
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    gap: 1.6rem;
+}
+
+.list-icon{
+    width: 3rem;
+    height: 3rem;
+    color: var(--primary);
+}
+
 
 /* HELPER CLASSES */
 
