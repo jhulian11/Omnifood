@@ -183,6 +183,7 @@ strong{
     align-items: center;
     font-weight: 500;
     gap: 1.6rem;
+    line-height: 1.2;
 }
 
 .list-icon{
