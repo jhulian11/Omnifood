@@ -25,6 +25,8 @@ html{
     /* font-size: 10px;  10/16*/
     font-size: 62.5%;
     overflow-x: hidden;
+    /* DOES NOT WOTK ON SAFARI AND EDGE */
+    /* scroll-behavior: smooth; */
 }
 
 body{
