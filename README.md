@@ -2,6 +2,8 @@
  
 Welcome to Omnifood, a delightful course project that takes you on a journey of learning HTML and CSS while creating a visually appealing and responsive website. This project serves as a hands-on experience to hone your front-end development skills, providing a practical playground for understanding the fundamentals of web design.
 
+**See the Live Demo Here:** https://omnifood-jhulian.netlify.app/
+
 ## Project Features:
 1. Responsive Design: 
 Omnifood is crafted with a responsive design approach, ensuring a seamless and engaging user experience across various devices, from desktops to smartphones.
